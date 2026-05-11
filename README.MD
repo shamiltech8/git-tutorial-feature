@@ -1,3 +1,10 @@
-#demo
+# DEMO2
 
-somethimnhfdg wrong
+
+SOMTHING GOOD
+
+
+## local development
+
+
+2.open index.html in yiou browser
